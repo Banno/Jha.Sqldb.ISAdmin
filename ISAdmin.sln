@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "ISAdmin", "ISAdmin\ISAdmin.sqlproj", "{062EA942-53D4-4085-AFE0-7DCBD5FA265D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{062EA942-53D4-4085-AFE0-7DCBD5FA265D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{062EA942-53D4-4085-AFE0-7DCBD5FA265D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{062EA942-53D4-4085-AFE0-7DCBD5FA265D}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{062EA942-53D4-4085-AFE0-7DCBD5FA265D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{062EA942-53D4-4085-AFE0-7DCBD5FA265D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{062EA942-53D4-4085-AFE0-7DCBD5FA265D}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4B78B54E-CE95-4401-B783-7EB73E225245}
+	EndGlobalSection
+EndGlobal
